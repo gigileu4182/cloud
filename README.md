@@ -7,12 +7,16 @@ sudo apt-get install w3m w3m-img -y
 sudo apt-get install zhcon -y 
 
 
-1. install R
+1. install R (version problem)
 2. install Rstudio
 3. download files using axel
-4. move files
+4. move files (`mv`)
 5. 安全组
 6. new users.
+
+## useful commands
+- `ls /`
+- `mv`
 
 
 https://www.aliyun.com/jiaocheng/128600.html
