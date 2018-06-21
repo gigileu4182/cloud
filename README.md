@@ -15,7 +15,7 @@ sudo apt-get install zhcon -y
 6. new users.
 7. 记得用公网地址
 8. scan users: `sudo apt-get install nmap` (https://itsfoss.com/how-to-find-what-devices-are-connected-to-network-in-ubuntu/)
-
+9. install ipython jupyter notebook: https://www.digitalocean.com/community/tutorials/how-to-set-up-a-jupyter-notebook-to-run-ipython-on-ubuntu-16-04    ///  jupyter notebook --ip=127.0.0.1
 
 ## useful commands
 - `ls /`
