@@ -14,12 +14,13 @@ sudo apt-get install zhcon -y
 5. 安全组
 6. new users.
 7. 记得用公网地址
+8. scan users: `sudo apt-get install nmap` (https://itsfoss.com/how-to-find-what-devices-are-connected-to-network-in-ubuntu/)
 
 
 ## useful commands
 - `ls /`
 - `mv`
-
+- `who/w/users`
 
 https://www.aliyun.com/jiaocheng/128600.html
 
@@ -34,3 +35,5 @@ https://www.howtoforge.com/tutorial/linux-search-files-from-the-terminal/
 
 hostname -i
 
+#### install r packages
+https://askubuntu.com/questions/931375/r-and-rstudio-installation-and-package-error
