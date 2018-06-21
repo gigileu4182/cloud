@@ -13,6 +13,8 @@ sudo apt-get install zhcon -y
 4. move files (`mv`)
 5. 安全组
 6. new users.
+7. 记得用公网地址
+
 
 ## useful commands
 - `ls /`
