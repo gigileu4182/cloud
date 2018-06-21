@@ -12,5 +12,11 @@ https://www.aliyun.com/jiaocheng/128600.html
 sudo apt-get install libapparmor1
 
 
-## ubuntu 如何找到所有的users.
+## - ubuntu 如何找到所有的users.
 https://askubuntu.com/questions/410244/a-command-to-list-all-users-and-how-to-add-delete-modify-users
+
+## - find 
+https://www.howtoforge.com/tutorial/linux-search-files-from-the-terminal/
+
+hostname -i
+
