@@ -7,6 +7,14 @@ sudo apt-get install w3m w3m-img -y
 sudo apt-get install zhcon -y 
 
 
+1. install R
+2. install Rstudio
+3. download files using axel
+4. move files
+5. 安全组
+6. new users.
+
+
 https://www.aliyun.com/jiaocheng/128600.html
 
 sudo apt-get install libapparmor1
