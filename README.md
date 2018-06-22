@@ -6,6 +6,7 @@ sudo apt-get install w3m w3m-img -y
 
 sudo apt-get install zhcon -y 
 
+sudo apt-get install libapparmor1
 
 5. 安全组
 8. scan users: `sudo apt-get install nmap` (https://itsfoss.com/how-to-find-what-devices-are-connected-to-network-in-ubuntu/)
@@ -34,6 +35,11 @@ sudo apt-get install zhcon -y
   - https://jupyter-notebook.readthedocs.io/en/stable/public_server.html
   - http://ironcrow.me/2017/08/17/Jupyter-notebook%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%83%A8%E7%BD%B2/
 
+## --- install PUTTY!!! use ssh in command prombt
+- ssh root@publicIP
+- putty local server settings: 1. session... 2. ssh tunnels
+- difference between ssh telnet ping and ..
+
 ## useful commands
 - `ls /`
 - `mv -v`
@@ -41,19 +47,15 @@ sudo apt-get install zhcon -y
 - `who/w/users`
 - `download files using axel`
 - `hostname -i`
+- **upload a local file to my cloud server:**
+  - "C:\Program Files\PuTTY\pscp.exe" -l root Untitled.png root@39.104.57.113:/home/
+    - https://stackoverflow.com/questions/7025404/how-to-upload-files-to-server-using-putty-ssh
+    - https://stackoverflow.com/questions/34037484/putty-pscp-error-local-to-local-copy-not-supported-when-username-contains-a-sl?noredirect=1&lq=1
 
 https://www.aliyun.com/jiaocheng/128600.html
 https://www.hostingadvice.com/how-to/move-copy-delete-files-linux/
 good?: https://help.ubuntu.com/community/UsingTheTerminal
 
-sudo apt-get install libapparmor1
-
-## *** upload a local file to my cloud server:
-- "C:\Program Files\PuTTY\pscp.exe" -l root Untitled.png root@39.104.57.113:/home/
-  - https://stackoverflow.com/questions/7025404/how-to-upload-files-to-server-using-putty-ssh
-  - https://stackoverflow.com/questions/34037484/putty-pscp-error-local-to-local-copy-not-supported-when-username-contains-a-sl?noredirect=1&lq=1
-
-
-## - ubuntu 如何找到所有的users.
+- ubuntu 如何找到所有的users.
 https://askubuntu.com/questions/410244/a-command-to-list-all-users-and-how-to-add-delete-modify-users
-- find: https://www.howtoforge.com/tutorial/linux-search-files-from-the-terminal/
+  - find: https://www.howtoforge.com/tutorial/linux-search-files-from-the-terminal/
