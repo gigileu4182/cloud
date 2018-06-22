@@ -17,6 +17,7 @@ sudo apt-get install zhcon -y
 8. scan users: `sudo apt-get install nmap` (https://itsfoss.com/how-to-find-what-devices-are-connected-to-network-in-ubuntu/)
 9. install ipython jupyter notebook: https://www.digitalocean.com/community/tutorials/how-to-set-up-a-jupyter-notebook-to-run-ipython-on-ubuntu-16-04    ///  jupyter notebook --ip=127.0.0.1
   - 阿里云 jupyter notebook https://blog.csdn.net/ys676623/article/details/77848427
+  - https://discuss.gluon.ai/t/topic/2689/9   ::: 对于云服务器自己，他只知道内网。对于我们，只知道公网。 ::: 记得copy paste那行   https://jupyter-notebook.readthedocs.io/en/stable/public_server.html
 
 ## useful commands
 - `ls /`
