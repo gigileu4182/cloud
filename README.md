@@ -30,6 +30,11 @@ https://www.aliyun.com/jiaocheng/128600.html
 
 sudo apt-get install libapparmor1
 
+## *** upload a local file to my cloud server:
+- "C:\Program Files\PuTTY\pscp.exe" -l root Untitled.png root@39.104.57.113:/home/
+  - https://stackoverflow.com/questions/7025404/how-to-upload-files-to-server-using-putty-ssh
+  - https://stackoverflow.com/questions/34037484/putty-pscp-error-local-to-local-copy-not-supported-when-username-contains-a-sl?noredirect=1&lq=1
+
 
 ## - ubuntu 如何找到所有的users.
 https://askubuntu.com/questions/410244/a-command-to-list-all-users-and-how-to-add-delete-modify-users
