@@ -7,18 +7,26 @@ sudo apt-get install w3m w3m-img -y
 sudo apt-get install zhcon -y 
 
 
-1. install R (version problem)
-2. install Rstudio
-3. download files using axel
-4. move files (`mv`)
 5. 安全组
-6. new users.
-7. 记得用公网地址
 8. scan users: `sudo apt-get install nmap` (https://itsfoss.com/how-to-find-what-devices-are-connected-to-network-in-ubuntu/)
+
+## ---- R studio 的一切
+1. install R (version problem!)
+2. install Rstudio
+3. new users (new user 会在 /home/ 底下)
+- 记得用 ls /
+
+4. 登陆：http://39.104.57.113:8787/auth-sign-in
+  - 1004 1&
+
+5. install r packages
+  - https://askubuntu.com/questions/931375/r-and-rstudio-installation-and-package-error
+
 
 ## ---- jupyter notebook的一切
 
 - 登陆：jupyter notebook --allow-root --no-browser --ip=内网地址
+  - 1004 python 1&
 
 - install ipython jupyter notebook: https://www.digitalocean.com/community/tutorials/how-to-set-up-a-jupyter-notebook-to-run-ipython-on-ubuntu-16-04    ///  jupyter notebook --ip=127.0.0.1
   - 阿里云 jupyter notebook https://blog.csdn.net/ys676623/article/details/77848427
@@ -29,9 +37,14 @@ sudo apt-get install zhcon -y
 ## useful commands
 - `ls /`
 - `mv -v`
+  - `cp /root/datacsv/2018-06-22.xls /home/rstudio/`
 - `who/w/users`
+- `download files using axel`
+- `hostname -i`
 
 https://www.aliyun.com/jiaocheng/128600.html
+https://www.hostingadvice.com/how-to/move-copy-delete-files-linux/
+good?: https://help.ubuntu.com/community/UsingTheTerminal
 
 sudo apt-get install libapparmor1
 
@@ -43,11 +56,4 @@ sudo apt-get install libapparmor1
 
 ## - ubuntu 如何找到所有的users.
 https://askubuntu.com/questions/410244/a-command-to-list-all-users-and-how-to-add-delete-modify-users
-
-## - find 
-https://www.howtoforge.com/tutorial/linux-search-files-from-the-terminal/
-
-hostname -i
-
-#### install r packages
-https://askubuntu.com/questions/931375/r-and-rstudio-installation-and-package-error
+- find: https://www.howtoforge.com/tutorial/linux-search-files-from-the-terminal/
