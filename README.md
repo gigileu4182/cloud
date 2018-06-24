@@ -28,6 +28,8 @@ sudo apt-get install libapparmor1
 
 - 登陆：jupyter notebook --allow-root --no-browser --ip=内网地址
   - 1004 python 1&
+- install packages...
+  - http://christopher5106.github.io/python/2017/10/12/python-packages-and-their-managers-apt-yum-easy_install-pip-virtualenv-conda.html
 
 - install ipython jupyter notebook: https://www.digitalocean.com/community/tutorials/how-to-set-up-a-jupyter-notebook-to-run-ipython-on-ubuntu-16-04    ///  jupyter notebook --ip=127.0.0.1
   - 阿里云 jupyter notebook https://blog.csdn.net/ys676623/article/details/77848427
