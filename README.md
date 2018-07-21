@@ -22,8 +22,11 @@ sudo apt-get install libapparmor1
   - then update and install
 2. install Rstudio
   - https://www.zhihu.com/question/37142204
+2.1 open the port
+  - sudo ufw allow 1234
 3. new users (new user 会在 /home/ 底下)
-- 记得用 ls /
+  - 记得用 ls /
+  - https://superuser.com/questions/149404/to-create-an-ssh-user-who-only-has-permission-to-access-specific-folders
 
 4. 登陆：http://39.104.57.113:8787/auth-sign-in
   - 1004 1&
@@ -67,6 +70,10 @@ sudo apt-get install libapparmor1
 - `find by file name` or part of file name
   - https://stackoverflow.com/questions/24655436/how-can-i-find-a-file-directory-that-could-be-anywhere-on-linux-command-line
   - https://askubuntu.com/questions/621063/command-to-find-files-by-searching-only-part-of-their-names
+  - `find / -type d -name '*rstudio*'`
+    - https://www.cyberciti.biz/faq/howto-find-a-directory-linux-command/
+- add user with limited rights
+  - https://superuser.com/questions/149404/to-create-an-ssh-user-who-only-has-permission-to-access-specific-folders
 
 
 https://www.aliyun.com/jiaocheng/128600.html
@@ -76,3 +83,4 @@ good?: https://help.ubuntu.com/community/UsingTheTerminal
 - ubuntu 如何找到所有的users.
 https://askubuntu.com/questions/410244/a-command-to-list-all-users-and-how-to-add-delete-modify-users
   - find: https://www.howtoforge.com/tutorial/linux-search-files-from-the-terminal/
+  - `find / -type d -name '*rstudio*'`
