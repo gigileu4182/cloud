@@ -8,12 +8,19 @@ sudo apt-get install zhcon -y
 
 sudo apt-get install libapparmor1
 
+- 提问
+  - askubuntu, 阿里云
 5. 安全组
 8. scan users: `sudo apt-get install nmap` (https://itsfoss.com/how-to-find-what-devices-are-connected-to-network-in-ubuntu/)
 
 ## ---- R studio 的一切
 1. install R (version problem!)
+  - reference.. https://stackoverflow.com/questions/44567499/install-r-latest-verison-on-ubuntu-16-04
+  - firstly, add the key.
+  - secondly, add the deb line to the sources.list
+  - then update and install
 2. install Rstudio
+  - https://www.zhihu.com/question/37142204
 3. new users (new user 会在 /home/ 底下)
 - 记得用 ls /
 
