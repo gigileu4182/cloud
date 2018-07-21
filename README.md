@@ -10,6 +10,7 @@ sudo apt-get install libapparmor1
 
 - 提问
   - askubuntu, 阿里云
+
 5. 安全组
 8. scan users: `sudo apt-get install nmap` (https://itsfoss.com/how-to-find-what-devices-are-connected-to-network-in-ubuntu/)
 
@@ -63,8 +64,9 @@ sudo apt-get install libapparmor1
   - "C:\Program Files\PuTTY\pscp.exe" -l root Untitled.png root@39.104.57.113:/home/
     - https://stackoverflow.com/questions/7025404/how-to-upload-files-to-server-using-putty-ssh
     - https://stackoverflow.com/questions/34037484/putty-pscp-error-local-to-local-copy-not-supported-when-username-contains-a-sl?noredirect=1&lq=1
-- `find by file name`
+- `find by file name` or part of file name
   - https://stackoverflow.com/questions/24655436/how-can-i-find-a-file-directory-that-could-be-anywhere-on-linux-command-line
+  - https://askubuntu.com/questions/621063/command-to-find-files-by-searching-only-part-of-their-names
 
 
 https://www.aliyun.com/jiaocheng/128600.html
