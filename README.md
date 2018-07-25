@@ -42,7 +42,7 @@ sudo apt-get install libapparmor1
 - install packages...
   - http://christopher5106.github.io/python/2017/10/12/python-packages-and-their-managers-apt-yum-easy_install-pip-virtualenv-conda.html
 
-- install ipython jupyter notebook: https://www.digitalocean.com/community/tutorials/how-to-set-up-a-jupyter-notebook-to-run-ipython-on-ubuntu-16-04    ///  jupyter notebook --ip=127.0.0.1
+- install ipython jupyter notebook: https://www.digitalocean.com/community/tutorials/how-to-set-up-a-jupyter-notebook-to-run-ipython-on-ubuntu-16-04    ///  jupyter notebook --ip=127.0.0.1 --allow-root --no-browser
   - 阿里云 jupyter notebook https://blog.csdn.net/ys676623/article/details/77848427
   - https://discuss.gluon.ai/t/topic/2689/9   ::: 对于云服务器自己，他只知道内网。对于我们，只知道公网。 ::: 记得copy paste那行
   - https://jupyter-notebook.readthedocs.io/en/stable/public_server.html
