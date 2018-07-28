@@ -75,6 +75,8 @@ sudo apt-get install libapparmor1
 - add user with limited rights
   - https://superuser.com/questions/149404/to-create-an-ssh-user-who-only-has-permission-to-access-specific-folders
 
+- sudo, sudo -s sudo -i
+  - https://askubuntu.com/questions/70534/what-are-the-differences-between-su-sudo-s-sudo-i-sudo-su
 
 https://www.aliyun.com/jiaocheng/128600.html
 https://www.hostingadvice.com/how-to/move-copy-delete-files-linux/
