@@ -2,6 +2,15 @@
 
 https://www.zhihu.com/question/34831629
 
+https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1472017492_58YV5
+
+web.py http://webpy.org/docs/0.3/tutorial#starting
+
+sudo python main.py 80 (remember to open the ..80 port.)
+
+
+
+---- 
 
 ## Docker
 
