@@ -8,6 +8,7 @@ web.py http://webpy.org/docs/0.3/tutorial#starting
 
 sudo python main.py 80 (remember to open the ..80 port.)
 
+scp root@47.101.XXX.XX:/root/handle.py /Users/bs/Desktop
 
 
 ---- 
