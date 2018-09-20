@@ -67,11 +67,7 @@ sudo apt-get install libapparmor1
   - "C:\Program Files\PuTTY\pscp.exe" -l root Untitled.png root@39.104.57.113:/home/
     - https://stackoverflow.com/questions/7025404/how-to-upload-files-to-server-using-putty-ssh
     - https://stackoverflow.com/questions/34037484/putty-pscp-error-local-to-local-copy-not-supported-when-username-contains-a-sl?noredirect=1&lq=1
-- `find by file name` or part of file name
-  - https://stackoverflow.com/questions/24655436/how-can-i-find-a-file-directory-that-could-be-anywhere-on-linux-command-line
-  - https://askubuntu.com/questions/621063/command-to-find-files-by-searching-only-part-of-their-names
-  - `find / -type d -name '*rstudio*'`
-    - https://www.cyberciti.biz/faq/howto-find-a-directory-linux-command/
+
 - add user with limited rights
   - https://superuser.com/questions/149404/to-create-an-ssh-user-who-only-has-permission-to-access-specific-folders
 
@@ -84,5 +80,19 @@ good?: https://help.ubuntu.com/community/UsingTheTerminal
 
 - ubuntu 如何找到所有的users.
 https://askubuntu.com/questions/410244/a-command-to-list-all-users-and-how-to-add-delete-modify-users
-  - find: https://www.howtoforge.com/tutorial/linux-search-files-from-the-terminal/
+
+- wget.. download files
+  - https://askubuntu.com/questions/207265/how-to-download-a-file-from-a-website-via-terminal
+- ls -sh filename ... file size
+###  find anything anywhere
+- https://askubuntu.com/questions/89393/how-to-search-entire-hard-drive-for-a-file
+- find: https://www.howtoforge.com/tutorial/linux-search-files-from-the-terminal/
   - `find / -type d -name '*rstudio*'`
+- `find by file name` or part of file name
+  - https://stackoverflow.com/questions/24655436/how-can-i-find-a-file-directory-that-could-be-anywhere-on-linux-command-line
+  - https://askubuntu.com/questions/621063/command-to-find-files-by-searching-only-part-of-their-names
+  - `find / -type d -name '*rstudio*'`
+    - https://www.cyberciti.biz/faq/howto-find-a-directory-linux-command/
+
+### python versions swith..
+  https://askubuntu.com/questions/320996/how-to-make-python-program-command-execute-python-3
