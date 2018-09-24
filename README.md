@@ -68,6 +68,7 @@ sudo apt-get install libapparmor1
     - https://stackoverflow.com/questions/7025404/how-to-upload-files-to-server-using-putty-ssh
     - https://stackoverflow.com/questions/34037484/putty-pscp-error-local-to-local-copy-not-supported-when-username-contains-a-sl?noredirect=1&lq=1
   - pscp C:\Users\bs\Desktop\kaggle.json root@47.XXX.XXX.XX:/root/.kaggle/
+    - 如果文件有空格,记得在整个加引号哟:'c:\...\project - .md'
 
 - add user with limited rights
   - https://superuser.com/questions/149404/to-create-an-ssh-user-who-only-has-permission-to-access-specific-folders
