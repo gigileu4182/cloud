@@ -1,5 +1,8 @@
 # cloud
 
+** memory space issue?**
+- https://stackoverflow.com/questions/34687030/pandoc-document-conversion-failed-with-error-127
+
 sudo apt-get update
 
 sudo apt-get install w3m w3m-img -y
