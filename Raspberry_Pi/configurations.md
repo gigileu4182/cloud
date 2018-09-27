@@ -25,6 +25,9 @@ http://www.cnblogs.com/xiaowuyi/p/4051238.html
 — https://zhuanlan.zhihu.com/p/21471896
 - 挂载树莓派移动硬盘或者U盘：http://shumeipai.nxez.com/2013/09/08/raspberry-pi-to-mount-the-removable-hard-disk.html
 
+## - 关键字：raspberry pi read text speak
+- 
+
 ### 基本搭建orders..
 
 1. buy an sd card reader..
