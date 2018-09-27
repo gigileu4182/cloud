@@ -21,7 +21,12 @@ https://www.zhihu.com/question/68191161
 https://www.zhihu.com/question/68191161
 http://www.cnblogs.com/xiaowuyi/p/4051238.html
 
-### orders..
+## - 关键字：树莓派 下载
+— https://zhuanlan.zhihu.com/p/21471896
+- 挂载树莓派移动硬盘或者U盘：http://shumeipai.nxez.com/2013/09/08/raspberry-pi-to-mount-the-removable-hard-disk.html
+
+### 基本搭建orders..
+
 1. buy an sd card reader..
 
 2. with a system card?
