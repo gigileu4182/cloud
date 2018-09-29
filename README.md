@@ -3,6 +3,7 @@
 ** memory space issue?**
 - https://stackoverflow.com/questions/34687030/pandoc-document-conversion-failed-with-error-127
 - https://stackoverflow.com/questions/17173972/how-do-you-add-swap-to-an-ec2-instance
+- https://stackoverflow.com/questions/17173972/how-do-you-add-swap-to-an-ec2-instance
 
 sudo apt-get update
 
