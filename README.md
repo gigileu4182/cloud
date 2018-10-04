@@ -103,5 +103,6 @@ https://askubuntu.com/questions/410244/a-command-to-list-all-users-and-how-to-ad
   - `find / -type d -name '*rstudio*'`
     - https://www.cyberciti.biz/faq/howto-find-a-directory-linux-command/
 
-### python versions swith..
-  https://askubuntu.com/questions/320996/how-to-make-python-program-command-execute-python-3
+### python versions swith.///// jupyter notebook working directory switch.
+- https://askubuntu.com/questions/320996/how-to-make-python-program-command-execute-python-3
+- https://askubuntu.com/questions/1080765/how-to-change-my-jupyter-notebook-working-directory
