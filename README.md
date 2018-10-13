@@ -38,7 +38,7 @@ sudo apt-get install libapparmor1
 
 5. install r packages
   - https://askubuntu.com/questions/931375/r-and-rstudio-installation-and-package-error
-
+6. r server installation.... http://jianghao.wang/post/2018-01-23-rstudio-server/
 
 ## ---- jupyter notebook的一切
 
