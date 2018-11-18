@@ -13,6 +13,9 @@ sudo apt-get install zhcon -y
 
 sudo apt-get install libapparmor1
 
+remove...... https://askubuntu.com/questions/201775/how-do-i-remove-a-folder
+
+
 - 提问
   - askubuntu, 阿里云
 
