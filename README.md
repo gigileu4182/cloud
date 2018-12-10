@@ -5,6 +5,9 @@
 - https://stackoverflow.com/questions/17173972/how-do-you-add-swap-to-an-ec2-instance
 - https://stackoverflow.com/questions/17173972/how-do-you-add-swap-to-an-ec2-instance
 
+// size ** df -h, du -sh file_path**
+- https://unix.stackexchange.com/questions/185764/how-do-i-get-the-size-of-a-directory-on-the-command-line
+
 sudo apt-get update
 
 sudo apt-get install w3m w3m-img -y
